@@ -5,10 +5,10 @@ This assignment aims to provide hands-on experience in analyzing functional Magn
 
 # Objectives
 - [X] Install and configure the necessary software tools (MATLAB, SPM-12, AAL3, and MarsBar) for fMRI data analysis.
-- [X]Preprocess and analyze auditory fMRI data using SPM-12.
-- [X]Explore brain regions and label activated clusters using the AAL3 atlas.
-- [X]Extract time-series data from regions of interest (ROIs) using MarsBar.
-- [X]Construct functional connectivity networks based on the extracted time-series data.
+- [X] Preprocess and analyze auditory fMRI data using SPM-12.
+- [X] Explore brain regions and label activated clusters using the AAL3 atlas.
+- [X] Extract time-series data from regions of interest (ROIs) using MarsBar.
+- [X] Construct functional connectivity networks based on the extracted time-series data.
 - [X] Perform graph theoretical analysis on the binary functional connectivity network.
 
 # Assignment Tasks
