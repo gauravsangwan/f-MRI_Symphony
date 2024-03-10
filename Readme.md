@@ -11,6 +11,21 @@ This assignment aims to provide hands-on experience in analyzing functional Magn
 - [X] Construct functional connectivity networks based on the extracted time-series data.
 - [X] Perform graph theoretical analysis on the binary functional connectivity network.
 
+# Results and Analysis 
+
+- All the processed images can be found in dir **MoAEpilot**.
+- To replicate results the job files in '.mat' format can be found in auditory/jobs.
+- Matlab figures for each analysis steps are saved in auditory/jobs. 
+- Model file saved as spm.mat can be found in auditory/classical/spm.mat. 
+- Extracted ROI timeseries are also saved in auditory/classical directory. 
+- Part3.ipynb contains the functional connectivity analysis of the extracted ROI's using Pearson Correlation coefficient. 
+![](pics/PCC.png)
+
+- part3_analysis.pdf contains the graph theoretical analysis and graph formed due to the same. 
+![](pics/functional_graph.png)
+
+
+
 # Assignment Tasks
 - Set up the working environment by installing MATLAB, SPM-12, AAL3, and MarsBar.
 - Download and preprocess the auditory fMRI dataset using SPM-12.
